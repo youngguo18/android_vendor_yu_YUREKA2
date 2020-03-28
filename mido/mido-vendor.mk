@@ -898,4 +898,5 @@ PRODUCT_PACKAGES += \
     WfdCommon \
     WfdService \
     QPerformance \
-    UxPerformance
+    UxPerformance \
+    chargeonlymode
