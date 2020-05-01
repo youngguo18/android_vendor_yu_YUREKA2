@@ -623,9 +623,14 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mido/proprietary/vendor/media/tfa98xx.cnt:$(TARGET_COPY_OUT_VENDOR)/media/tfa98xx.cnt \
     vendor/xiaomi/mido/proprietary/vendor/etc/camera/csidtg_camera.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/csidtg_camera.xml \
     vendor/xiaomi/mido/proprietary/vendor/etc/camera/csidtg_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/csidtg_chromatix.xml \
+    vendor/xiaomi/mido/proprietary/vendor/etc/camera/GpuKernelRepo.pb:$(TARGET_COPY_OUT_VENDOR)/etc/camera/GpuKernelRepo.pb \
+    vendor/xiaomi/mido/proprietary/vendor/etc/camera/lf_facerank_model.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/lf_facerank_model.bin \
+    vendor/xiaomi/mido/proprietary/vendor/etc/camera/model_back.dlc:$(TARGET_COPY_OUT_VENDOR)/etc/camera/model_back.dlc \
+    vendor/xiaomi/mido/proprietary/vendor/etc/camera/model_front.dlc:$(TARGET_COPY_OUT_VENDOR)/etc/camera/model_front.dlc \
     vendor/xiaomi/mido/proprietary/vendor/etc/camera/msm8953_camera.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/msm8953_camera.xml \
-	vendor/xiaomi/mido/proprietary/vendor/etc/camera/ov16880_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/ov16880_chromatix.xml \
+    vendor/xiaomi/mido/proprietary/vendor/etc/camera/ov16880_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/ov16880_chromatix.xml \
     vendor/xiaomi/mido/proprietary/vendor/etc/camera/s5k4h8_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k4h8_chromatix.xml \
+    vendor/xiaomi/mido/proprietary/vendor/etc/camera/sdm_ys_32p_120_21_5_perturb50.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/sdm_ys_32p_120_21_5_perturb50.bin \
     vendor/xiaomi/mido/proprietary/vendor/etc/camera/ov8856_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/ov8856_chromatix.xml \
     vendor/xiaomi/mido/proprietary/vendor/etc/camera/s5k3p3_f3l8yam_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3p3_f3l8yam_chromatix.xml \
     vendor/xiaomi/mido/proprietary/vendor/bin/mm-qcamera-daemon::$(TARGET_COPY_OUT_VENDOR)/bin/mm-qcamera-daemon \
