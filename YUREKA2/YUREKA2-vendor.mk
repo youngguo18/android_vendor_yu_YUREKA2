@@ -794,6 +794,8 @@ PRODUCT_COPY_FILES += \
     vendor/yu/YUREKA2/proprietary/vendor/etc/qdcm_calib_data_otm1901a_1080p_video_DJ_otp.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_otm1901a_1080p_video_DJ_otp.xml \
     vendor/yu/YUREKA2/proprietary/vendor/etc/qdcm_calib_data_r63350_1080p_video_Tianma.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_r63350_1080p_video_Tianma.xml \
     vendor/yu/YUREKA2/proprietary/vendor/lib/libcom_fingerprints_service.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcom_fingerprints_service.so \
+    vendor/yu/YUREKA2/proprietary/vendor/lib64/libcom_fingerprints_service.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcom_fingerprints_service.so \
+    vendor/yu/YUREKA2/proprietary/vendor/lib64/hw/fingerprint.fpc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.fpc.so \
     vendor/yu/YUREKA2/proprietary/vendor/lib/hw/fingerprint.fpc.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/fingerprint.fpc.so
 
 # blobs from other devices
