@@ -1,1 +1,1 @@
-Q vendor tree of YU Yureka2 rebased over Xiaomi
+Q vendor tree of YU Yureka2 rebased over Xiaomi.
